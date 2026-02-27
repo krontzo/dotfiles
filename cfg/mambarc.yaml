@@ -1,0 +1,9 @@
+channels: [conda-forge]
+add_pip_as_python_dependency: false
+always_yes: false
+auto_activate_base: false
+changeps1: false
+channel_priority: strict
+extra_safety_checks: true
+repodata_use_zst: true
+ssl_verify: true

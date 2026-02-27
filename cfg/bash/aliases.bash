@@ -1,0 +1,6 @@
+export EXINIT='set tabstop=4 expandtab autoindent'
+alias bat='batcat'
+alias cp='cp -i'
+alias fd='fdfind'
+alias mv='mv -i'
+alias vi='busybox vi'
