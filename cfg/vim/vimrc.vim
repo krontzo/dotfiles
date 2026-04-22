@@ -4,7 +4,7 @@ filetype plugin indent on
 syntax enable
 set directory=~/.vim/swp//
 set expandtab tabstop=4 softtabstop=4 shiftwidth=4
-set fileformat=unix
+set fileformats=unix,dos
 set mouse=a
 set noerrorbells visualbell t_vb=
 set nrformats-=octal
